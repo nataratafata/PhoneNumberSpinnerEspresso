@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a9f0e14bf8ccbc8cdfb6e03cd0209ee6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5826f4b5e7b71acaeab69230f84218a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\87d67fff792da0d19bbc7a059dc451a0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9ee416d52fd012f84965eae88a21454c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcffbde448b7c30e8e5063b11846312b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a7b144553e8794cd17b33063863cb96d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e3e6cfd508151a209ee42e36a21a605e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69d873fc9562cef45a4d5ea22e9c61d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\766a703b0abb6137edd044a5eb4226a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\79d1277cdd346033ca7777db908796f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\27a1fffa636ca42c04f6781e4f1b12af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\27b9a75f10ef3fbdb2e9f5465d6e6037\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ccf3f935a6dc3c748734694e12846e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\287ca60470cc60e66aa65802770d4ca3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\153a41ad0c3f407e251d3d6b355be36f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e118b308a1466bf1e6d935e30f2df6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2db5345eea2c4802f6d74f3d825d1f1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:19:5-53
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\87d67fff792da0d19bbc7a059dc451a0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\87d67fff792da0d19bbc7a059dc451a0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.phonenumberspinner.MainActivity
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a9f0e14bf8ccbc8cdfb6e03cd0209ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a9f0e14bf8ccbc8cdfb6e03cd0209ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5826f4b5e7b71acaeab69230f84218a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5826f4b5e7b71acaeab69230f84218a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\87d67fff792da0d19bbc7a059dc451a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\87d67fff792da0d19bbc7a059dc451a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9ee416d52fd012f84965eae88a21454c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9ee416d52fd012f84965eae88a21454c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcffbde448b7c30e8e5063b11846312b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcffbde448b7c30e8e5063b11846312b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a7b144553e8794cd17b33063863cb96d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a7b144553e8794cd17b33063863cb96d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e3e6cfd508151a209ee42e36a21a605e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e3e6cfd508151a209ee42e36a21a605e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69d873fc9562cef45a4d5ea22e9c61d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69d873fc9562cef45a4d5ea22e9c61d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\766a703b0abb6137edd044a5eb4226a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\766a703b0abb6137edd044a5eb4226a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\79d1277cdd346033ca7777db908796f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\79d1277cdd346033ca7777db908796f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\27a1fffa636ca42c04f6781e4f1b12af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\27a1fffa636ca42c04f6781e4f1b12af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\27b9a75f10ef3fbdb2e9f5465d6e6037\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\27b9a75f10ef3fbdb2e9f5465d6e6037\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ccf3f935a6dc3c748734694e12846e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3ccf3f935a6dc3c748734694e12846e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\287ca60470cc60e66aa65802770d4ca3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\287ca60470cc60e66aa65802770d4ca3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\153a41ad0c3f407e251d3d6b355be36f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\153a41ad0c3f407e251d3d6b355be36f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e118b308a1466bf1e6d935e30f2df6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e118b308a1466bf1e6d935e30f2df6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2db5345eea2c4802f6d74f3d825d1f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Sherdon Brown\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2db5345eea2c4802f6d74f3d825d1f1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sherdon Brown\Downloads\PhoneNumberSpinnerEspresso-master\PhoneNumberSpinnerEspresso-master\app\src\main\AndroidManifest.xml

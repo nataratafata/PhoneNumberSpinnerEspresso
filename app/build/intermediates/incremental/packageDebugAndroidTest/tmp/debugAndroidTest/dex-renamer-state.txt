@@ -1,0 +1,4 @@
+#Thu Jan 03 17:28:52 EST 2019
+base.0=C\:\\Users\\Sherdon Brown\\Downloads\\PhoneNumberSpinnerEspresso-master\\PhoneNumberSpinnerEspresso-master\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
